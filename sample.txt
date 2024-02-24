@@ -1,5 +1,7 @@
 Hi Github,
 
+
+This is developer 1 text in Line 3 and for second commit
 This is developer 2 text in Line 3 and something and more.
 
 This is sample test which is used to test the Git merge concept.
