@@ -1,5 +1,6 @@
 Hi Github,
 
 This is developer 1 text in Line 3 and for second time for third time.
+This is developer 2 for creating a merge conflicts.
 
 This is sample test which is used to test the Git merge concept.
