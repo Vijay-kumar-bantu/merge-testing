@@ -1,5 +1,5 @@
 Hi Github,
 
-This is developer 1 text in Line 3
+This is developer 2 text in Line 3 and something
 
 This is sample test which is used to test the Git merge concept.
