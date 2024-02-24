@@ -1,0 +1,3 @@
+Hi Github,
+
+This is sample test which is used to test the Git merge concept.
