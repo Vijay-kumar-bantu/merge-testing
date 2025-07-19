@@ -7,3 +7,7 @@ This is a demo statement for testing Git lens extension.
 
 this is a demo statement.
 This is sample test which is used to test the Git merge concept.
+
+This is the test for CodeRabbit review.
+
+let's check some spelling mistakes.
